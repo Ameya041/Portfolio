@@ -1,54 +1,27 @@
-Team Task Management Web App
-This web app allows team members to collaborate efficiently by managing tasks and sharing project information. The platform includes features like a to-do list, real-time chat, and a calendar for better project organization.
+Personal Website:Portfolio
+A responsive and animated burger icon navigation menu built with HTML, CSS, and JavaScript. This burger icon is commonly used in mobile websites or web applications for toggling the display of navigation menu on smaller screens.
 
-Table of Contents
-Installation
-Features
-Technology Stack
-Contributing
-License
+Demo of the Burger Icon Animation
 
-Installation
-Clone the repository to your local machine:
+Usage
+To use this burger icon animation in your project, simply follow these steps:
 
-Download
-Copy code
-git clone https://github.com/username/repo-name.git
-Change to the project directory:
+Clone this repository using the command git clone https://github.com/Ameya041/Portfolio/ in your terminal.
 
-Download
-Copy code
-cd repo-name
-Install the required dependencies:
+Copy the HTML, CSS, and JavaScript code from the respective files in the src folder.
 
-Download
-Copy code
-npm install
-Start the development server:
+Paste the code into your HTML, CSS, and JavaScript files respectively.
 
-Download
-Copy code
-npm start
-Open your browser and navigate to http://localhost:3000 to view the web app.
+Open your project in a web browser and view the animated burger icon in action.
 
-Features
-Task creation, assignment, and status updates
-Real-time chat for instant communication
-Calendar for project deadline tracking
-Project files and resources sharing
-Email notifications for task updates and deadlines
-Technology Stack
-Frontend: React.js, Redux, Material-UI
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT
-Real-time communication: Socket.IO
-Contributing
-Contributions are welcome! To contribute, please fork the repository, make your changes, and submit a pull request.
+Code Structure
+The src folder contains the following files:
+
+Portfolio.html: This file includes the necessary HTML structure and references to the CSS and JavaScript files.
+
+styles.css: This file contains the necessary CSS styles to make the burger icon and navigation menu visually appealing.
+
+script.js: This file contains the JavaScript code to handle the burger icon animation and the navigation menu display.
 
 License
 This project is licensed under the MIT License.
-
-Team Task Management Web App is a productivity web application developed by username.
-
-It provides features such as task management, real-time chat, and project tracking to enhance team collaboration.
